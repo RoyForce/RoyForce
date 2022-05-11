@@ -1,4 +1,4 @@
-- Senior React | Vue | Laravel | Node | RoR | Python | Django Developer 👋
+**Senior React | Vue | Laravel | Node | RoR | Python | Django Developer 👋**
 
 <!---
 RoyForce/RoyForce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
