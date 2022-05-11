@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @RoyForce
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Senior React | Vue | Laravel | Node | RoR | Python | Django Developer 👋
 
 <!---
 RoyForce/RoyForce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-Senior React | Vue | Laravel | Node | RoR | Python | Django Developer 👋
+
 Passionate and hard-working Senior Full-Stack Developer who has gained rich experience and solid track record in developing profitable websites to meet client needs and requirements. Self-motivated, innovative, energetic with excellent communication, analytical, collaborating, mentoring, problem solving and troubleshooting skills. Passionate about utilizing cutting-edge technologies to meet user requirements expediently and accurately.
 
 Tech Skills:
